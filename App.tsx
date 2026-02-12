@@ -10,19 +10,19 @@ const MEMORIES: Memory[] = [
   {
     id: 1,
     text: "Hai honeyy!",
-    image: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?q=80&w=1000&auto=format&fit=crop",
+    image: "/img3.jpg",
     placeholderColor: "bg-pink-100"
   },
   {
     id: 2,
-    text: "i appreciate you so much. you are the best thing that ever happened to me and i just wanna say thank you for being you and for loving me. i hope we can make more memories together and be happy together forever. i love youuuuuuuuuuuuuuuuuuuuuuuu",
-    image: "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?q=80&w=1000&auto=format&fit=crop",
+    text: "i appreciate you so much. you are the best thing that ever happened to me and i just wanna say thank you for being you and for loving me. ",
+    image: "/img2.jpg",
     placeholderColor: "bg-rose-100"
   },
   {
     id: 3,
     text: "I have something important to ask...",
-    image: "https://images.unsplash.com/photo-1522673607200-1645062cd958?q=80&w=1000&auto=format&fit=crop",
+    image: "/img1.jpg",
     placeholderColor: "bg-purple-100"
   }
 ];
@@ -236,7 +236,7 @@ I just wanna say that you are the most amazing person i]I have ever met. you are
 You are the most special person in my life, and I can't wait to spend my life with u. Thank you for being my girlfriend and my best friend.
 
 I love you so much!
-ya boi lam`);
+ya boi lam                    `);
   };
 
   const isLastStep = currentStep === MEMORIES.length;
