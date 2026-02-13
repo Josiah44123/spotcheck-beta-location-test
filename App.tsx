@@ -21,7 +21,7 @@ const MEMORIES: Memory[] = [
   },
   {
     id: 3,
-    text: "I have something important to ask...",
+    text: "I have something important to ask..",
     image: "/img1.jpg",
     placeholderColor: "bg-purple-100"
   }
